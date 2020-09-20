@@ -25,13 +25,13 @@ HTML (basic level), CSS (basic level), JavaScript (basic level), GIT (basic know
 
 ## Code examples ##
 
-`<div>
+    <div>
+ 
+    const example = "Festina Lente";
 
-const example = "Festina Lente";
+    console.log(example);
 
-console.log(example);
-
-</div>`
+    </div>`
 
 ## Working expirience ##
 
