@@ -49,7 +49,7 @@ HTML (basic level), CSS (basic level), JavaScript (basic level), GIT (basic know
 
 * **Samara State Technical University** (5 years) economist-manager. Specialty - economics and management at the enterprises of the fuel and energy complex.
 
-* **JavaScript Front-End Developer courses** (2020Q3 - currently in progress)
+* **JavaScript Front-End Developer courses** (2021Q1 - currently in progress)
 
 ## Languages ##
 English (Intermediate B1)
